@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ColourAttribute.cs" />
+    <Compile Include="ColourPrint.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SomeClass1.cs" />
+    <Compile Include="SomeClass2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
